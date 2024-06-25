@@ -1,0 +1,22 @@
+* {
+    background-color: wheat;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    background-color: rgb(183, 182, 146);
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: -30px;
+}
+
+h2, h3 {
+    background-color: rgb(182, 174, 164);
+}
